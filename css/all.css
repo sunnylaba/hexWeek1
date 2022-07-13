@@ -107,6 +107,7 @@ a {
 }
 
 .underLine {
+  padding-bottom: 8px;
   border-bottom: 1px solid #000000;
 }
 
@@ -162,6 +163,7 @@ a {
 
 .skillBox h2 {
   border-bottom: 1px solid #FFFFFF;
+  padding-bottom: 8px;
   text-align: center;
 }
 
@@ -222,6 +224,7 @@ a {
 
 .contact h2 {
   border-bottom: 1px solid #FFFFFF;
+  padding-bottom: 8px;
   text-align: center;
 }
 
@@ -251,5 +254,6 @@ a {
 
 .contact .socialMedia li {
   padding-right: 24px;
+  padding-bottom: 0px;
 }
 /*# sourceMappingURL=all.css.map */
